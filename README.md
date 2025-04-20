@@ -135,72 +135,89 @@ You can click the Preview link to take a look at your changes.
 
 
 
-🔥 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kriju0726&show_icons=true&theme=radical" alt="Krish's GitHub stats" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriju0726&theme=radical" width="45%" /> </p>
-
-
-
-
-🏆 GitHub Trophy Cabinet
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kriju0726&theme=radical&no-frame=true&row=1&&margin-w=15" /> </p>
-
-
-
-
-📊 GitHub Activity Graph
-
-📫 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/krish-juyal/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:kumarkrish07022002@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/kriju0726"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-💡 Quote of the Day
-"Strive to build things that make a difference!" – Krish Kumar 💙
-
-
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20Views&color=0e75b6&style=flat" /> </p> ```
-
-
-
-
-<!-- Banner Image with Krish Name -->
+<!-- Profile Banner -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Krish Kumar Banner" />
-</p>
-
-<!-- Name & Tagline -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#00FFFF;">Krish Kumar</span>!</h1>
-<p align="center">
-  🚀 3rd Year B.Tech CSE | MERN Stack Developer | Open Source Enthusiast 💻
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=450&lines=I+love+solving+real-world+problems!;Passionate+about+MERN+Stack+%F0%9F%94%A5;Always+learning+new+things!+%F0%9F%93%9A;Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=500&lines=I+love+solving+real-world+problems!;Passionate+about+MERN+Stack+🔥;Always+learning+new+things!+📚;Welcome+to+my+GitHub+Universe+🌌" />
 </p>
 
-
-
-
-
-
-
-
-<!-- 🌟 Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Krish Kumar Banner" />
-</p>
-
-<!-- 🙋‍♂️ Name and Intro -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#00FFFF;">Krish Kumar</span>!</h1>
+<!-- Intro Section -->
+<h1 align="center">Hey there 👋, I'm <strong>Krish Kumar</strong>!</h1>
 <p align="center">
   🚀 3rd Year B.Tech CSE | MERN Stack Developer | Open Source Enthusiast 💻
 </p>
 
-<!-- 🖋️ Typing Animation -->
+---
+
+## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat-square&logo=express)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=500&lines=I+love+solving+real-world+problems!;Passionate+about+MERN+Stack+%F0%9F%94%A5;Always+learning+new+things!+%F0%9F%93%9A;Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kriju0726&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriju0726&theme=radical" width="45%" />
 </p>
+
+---
+
+## 🏆 GitHub Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kriju0726&theme=radical&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kriju0726&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/krish-juyal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kumarkrish07022002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kriju0726">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 Quote of the Day
+
+> **"Strive to build things that make a difference!"** – *Krish Kumar* 💙
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 ---
 
