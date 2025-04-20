@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-🛠️ Languages & Tools
+### 🚀 Tech Stack & Tools I Use
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -128,16 +128,6 @@ You can click the Preview link to take a look at your changes.
 - 🌐 Portfolio: *(coming soon)*
 
 ---
-
-## 🚀 Tech Stack
-
-💻 HTML5 | CSS3 | JavaScript  
-⚛️ React.js | TailwindCSS  
-🧠 Node.js | Express.js | MongoDB  
-📁 Git | GitHub | Firebase  
-🌐 REST APIs | Postman  
-🧪 C | C++ | Python | DSA
-
 
 
 
