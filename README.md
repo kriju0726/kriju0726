@@ -196,8 +196,7 @@ You can click the Preview link to take a look at your changes.
 
 🧰 Tools I Use
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,py,cpp,c,firebase,vercel" /> </p>
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kriju0726&show_icons=true&theme=radical" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=kriju0726&theme=radical" width="45%" /> </p>
+
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kriju0726&theme=radical&row=1&no-frame=true&margin-w=15" /> </p>
 📊 Activity Graph
