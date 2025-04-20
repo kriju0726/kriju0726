@@ -74,14 +74,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-
-🎉 Fun Fact
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-
-
-
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
@@ -114,26 +106,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 I'm currently in 6th Semester of B.Tech in Computer Science
-- 💻 I love building Full-Stack MERN Applications
-- 🌱 Actively learning React.js, Node.js, MongoDB, Express.js
-- 🔥 Passionate about Open Source & Real-World Projects
-- 📫 Email: **kumarkrish07022002@gmail.com**
-- 🌐 Portfolio: *(coming soon)*
-
----
-
-
-
-
-
-
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Krish Kumar Banner" />
@@ -149,14 +121,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   🚀 3rd Year B.Tech CSE | MERN Stack Developer | Open Source Enthusiast 💻
 </p>
-
----
-
-
-
----
-
-
 
 
 
@@ -174,34 +138,17 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
----
-
-## 💡 Quote of the Day
-
-> **"Strive to build things that make a difference!"** – *Krish Kumar* 💙
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 
----
-
-
-
-🧰 Tools I Use
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,py,cpp,c,firebase,vercel" /> </p>
 
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kriju0726&theme=radical&row=1&no-frame=true&margin-w=15" /> </p>
-📊 Activity Graph
 
-🔗 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/krish-juyal/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:kumarkrish07022002@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/kriju0726"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-💬 Quote of the Day
-"Push yourself, because no one else is going to do it for you." — 💥 Krish Kumar
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20Views&color=0e75b6&style=flat" /> </p> ```
 
