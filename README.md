@@ -23,7 +23,7 @@
 
 🤝 Looking to collaborate on exciting projects
 
-📫 Reach me at [your.email@example.com]
+📫 Reach me at [kumar.krish07022002@gmail.com]
 
 
 
