@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @kriju0726
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kriju0726/kriju0726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <!-- Profile Header -->
 <p align="center">
@@ -64,21 +52,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-🌐 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/krish-juyal/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> 
-  <a href="mailto:your.email@example.com"> 
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> 
-  <a href="https://your-portfolio.com"> 
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /> </a> 
-</p>
-
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
-
-
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kriju0726&theme=radical&row=1&no-frame=true&margin-w=15" /> </p>
 
@@ -101,15 +74,15 @@ You can click the Preview link to take a look at your changes.
 - System Design Concepts
 
 
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20Views&color=0e75b6&style=flat" />
+🌐 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/krish-juyal/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> 
+  <a href="mailto:your.email@example.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> 
+  <a href="https://your-portfolio.com"> 
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /> </a> 
 </p>
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20Views&color=0e75b6&style=flat" /> </p> ```
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
