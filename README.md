@@ -79,9 +79,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kriju0726&theme=dracula&margin-w=15" />
-</p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kriju0726&theme=radical&row=1&no-frame=true&margin-w=15" /> </p>
 
 
 
@@ -108,11 +107,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-
-
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kriju0726&theme=radical&row=1&no-frame=true&margin-w=15" /> </p>
 
 
 
