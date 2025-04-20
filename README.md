@@ -105,40 +105,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Krish Kumar Banner" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=500&lines=I+love+solving+real-world+problems!;Passionate+about+MERN+Stack+🔥;Always+learning+new+things!+📚;Welcome+to+my+GitHub+Universe+🌌" />
-</p>
-
-<!-- Intro Section -->
-<h1 align="center">Hey there 👋, I'm <strong>Krish Kumar</strong>!</h1>
-<p align="center">
-  🚀 3rd Year B.Tech CSE | MERN Stack Developer | Open Source Enthusiast 💻
-</p>
-
-
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/krish-juyal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kumarkrish07022002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kriju0726">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
