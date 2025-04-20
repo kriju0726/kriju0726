@@ -11,6 +11,20 @@ kriju0726/kriju0726 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Krish%20Kumar!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<!-- Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=450&lines=3rd+Year+B.Tech+CSE+Student;MERN+Stack+Developer;Learning+%26+Building+Cool+Projects;Open+Source+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20views&color=0e75b6&style=flat" alt="kriju0726" />
+</p>
+
 
 🚀 About Me
 🎓 B.Tech CSE student at [Your University Name]
@@ -28,11 +42,18 @@ You can click the Preview link to take a look at your changes.
 
 
 🛠️ Languages & Tools
-<p align="center"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" /> 
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </p>
 
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kriju0726&show_icons=true&theme=radical" alt="Krish's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriju0726&theme=radical" alt="Krish's GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kriju0726&show_icons=true&theme=radical" alt="Krish's GitHub Stats" /> </p> 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriju0726&theme=radical" alt="Krish's GitHub Streak" /> </p>
 
 
 
@@ -45,23 +66,6 @@ You can click the Preview link to take a look at your changes.
 🎉 Fun Fact
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-
-
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Krish%20Kumar!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<!-- Typing Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=450&lines=3rd+Year+B.Tech+CSE+Student;MERN+Stack+Developer;Learning+%26+Building+Cool+Projects;Open+Source+Enthusiast" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20views&color=0e75b6&style=flat" alt="kriju0726" />
-</p>
 
 
 
