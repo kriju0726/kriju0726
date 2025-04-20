@@ -23,11 +23,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kriju0726&label=Profile%20views&color=0e75b6&style=flat" alt="kriju0726" />
-</p>
+</p> 
 
 
 🚀 About Me
-🎓 B.Tech CSE student at [Your University Name]
+🎓 B.Tech CSE student at [Techno Main Salt Lke, (MAKAUT University).]
 
 💻 Passionate about Web Development and Open Source
 
@@ -59,7 +59,12 @@ You can click the Preview link to take a look at your changes.
 
 
 🌐 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/krish-juyal/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://your-portfolio.com"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/krish-juyal/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> 
+  <a href="mailto:your.email@example.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> 
+  <a href="https://your-portfolio.com"> 
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /> </a> 
+</p>
 
 
 
@@ -71,12 +76,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
-
-
-### 🧰 Languages and Tools:
-💻 HTML, 🎨 CSS, ⚙️ JavaScript, ⚛️ React.js, 🌐 Node.js, 🗂️ Express, 🍃 MongoDB, 🐍 Python, 💾 Git, 🐙 GitHub
 
 
 
@@ -125,7 +124,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 Tech Stack
 
-```md
 💻 HTML5 | CSS3 | JavaScript  
 ⚛️ React.js | TailwindCSS  
 🧠 Node.js | Express.js | MongoDB  
@@ -157,44 +155,13 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🚀 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat-square&logo=express)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kriju0726&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriju0726&theme=radical" width="45%" />
-</p>
 
----
 
-## 🏆 GitHub Trophy Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kriju0726&theme=radical&no-frame=true&row=1&margin-w=15" />
-</p>
-
----
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kriju0726&theme=radical" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
@@ -224,31 +191,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-
-## 🧑‍💻 About Me
-
-- 🎓 3rd Year B.Tech in Computer Science @ TMSL
-- 👨‍💻 MERN Stack Developer | Backend Explorer
-- 📈 Love solving real-world problems through code
-- 🌱 Currently learning: React.js | MongoDB | Node.js | TailwindCSS
-- 🛠️ Building projects & exploring new tech daily
-- 📫 Email: **kumarkrish07022002@gmail.com**
-
----
-
-## 🚀 Tech Stack
-
-```md
-💻 HTML5 | CSS3 | JavaScript  
-⚛️ React.js | TailwindCSS  
-🧠 Node.js | Express.js | MongoDB  
-📁 Git | GitHub | Firebase  
-🌐 REST APIs | Postman  
-🧪 C | C++ | Python | DSA
-
-
-
-
 
 
 
