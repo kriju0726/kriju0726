@@ -47,8 +47,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B+I+am+Krish+Kumar!;Web+Dev+%7C+MERN+Stack+Enthusiast+%7C+Problem+Solver;Welcome+to+my+GitHub+Universe!+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Krish%20Kumar!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<!-- Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=450&lines=3rd+Year+B.Tech+CSE+Student;MERN+Stack+Developer;Learning+%26+Building+Cool+Projects;Open+Source+Enthusiast" />
 </p>
 
 
@@ -99,15 +105,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Krish%20Kumar!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<!-- Typing Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=450&lines=3rd+Year+B.Tech+CSE+Student;MERN+Stack+Developer;Learning+%26+Building+Cool+Projects;Open+Source+Enthusiast" />
-</p>
 
 ---
 
